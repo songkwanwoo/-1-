@@ -1,0 +1,8 @@
+a = int(input())
+us = print(a0.00089)
+eu = print(a0.00075)
+jp = print(a0.097)
+oh = print(a0.0058)
+
+
+print("1000원 : %d장" % (a/1000))
